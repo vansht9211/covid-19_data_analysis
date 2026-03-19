@@ -3,13 +3,6 @@
 ## 📌 Overview
 This project focuses on cleaning and analyzing COVID-19 dataset using Microsoft Excel.
 
-## 🔄 Before vs After
-### Raw Data
-![Raw Data](paste-image-link-here)
-
-### Cleaned Data
-![Cleaned Data](paste-image-link-here)
-
 ## 🛠 Tools Used
 - Microsoft Excel
 - Data Cleaning
